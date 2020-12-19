@@ -3,15 +3,15 @@
 Este es el analisis que se hizo a los datos para extraer información de valor y que ayude a la toma de decisiones.
 
 ## Page 💻
-[master-app.herokuapp.com](https://masterpath-app.herokuapp.com/)
-[Dashboard MasterPath](https://datastudio.google.com/reporting/442fd58e-7ef9-4aee-951f-8a09fc3d2c24)
+- [master-app.herokuapp.com](https://masterpath-app.herokuapp.com/)
+- [Dashboard MasterPath](https://datastudio.google.com/reporting/442fd58e-7ef9-4aee-951f-8a09fc3d2c24)
 
 ## Stack 🛠️
 - [Google Data Studio](https://datastudio.google.com/) - Herramienta gratuita que permite convertir datos en informes y paneles claros, totalmente personalizables y fáciles de consultar y compartir.
 - [SQL](https://developer.mozilla.org/es/docs/Glossary/SQL) - Lenguaje de programación diseñado para actualizar, obtener, y calcular información en bases de datos relacionales.
 
 ## Autor ✒️
-- **Alberto Ortiz** - _Analista de Datos_ - [CarGDev](https://github.com/CarGDev)
+- **Alberto Ortiz** - _Analista de Datos_ - [albertusortiz](https://github.com/albertusortiz)
 
 ## Analizando los Datos
 ***Grafico 1 | Alumnos con mayor actividad en repositorios.***
