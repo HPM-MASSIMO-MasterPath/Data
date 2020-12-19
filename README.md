@@ -50,7 +50,7 @@ order by
 ![](https://raw.githubusercontent.com/HPM-MASSIMO-MasterPath/Data/main/3.%20Experiencia%20de%20Alumnos.png)
 
 ## Base de Datos 💾
-[Modelo Relacional](https://github.com/HPM-MASSIMO-MasterPath/Backend/blob/main/BD%20Relacional%20Master%20Path.png)
+![Modelo Relacional](https://github.com/HPM-MASSIMO-MasterPath/Backend/blob/main/BD%20Relacional%20Master%20Path.png)
 
 ## Algoritmo de Recomendacion
 Analizando la data se llego a la conclución en implementar el algoritmo de clustericacion ***KMeans***. Esto por que a partir de un conjunto de datos con similitudes nos permite agruparlos para crear diferentes categorias.
