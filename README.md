@@ -14,7 +14,7 @@ Este es el analisis que se hizo a los datos para extraer información de valor y
 - **Alberto Ortiz** - _Analista de Datos_ - [CarGDev](https://github.com/CarGDev)
 
 ## Analizando los Datos
-***Grafico 1***
+***Grafico 1 | Alumnos con mayor actividad en repositorios.***
 
 Este grafico circular muestra al top 10 de estudiantes con mayor actividad en repositorios de GitHub. Esto permite que el coach pueda identificar rapidamente a los alumnos mas activos realizando retos.
 
