@@ -20,7 +20,7 @@ Este grafico circular muestra al top 10 de estudiantes con mayor actividad en re
 
 ``` select u.id, u.username, count(w.id) as works_total from works w, users u where u.id = w."userId" group by u.id, u.username order by id ```
 
-[Alumnos con mayor actividad de repositorios]()
+![Alumnos con mayor actividad de repositorios]()
 
 
 ## Base de Datos 💾
