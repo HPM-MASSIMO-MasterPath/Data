@@ -65,5 +65,8 @@ La biblioteca que se pretende usar es ***Scikit-learn*** que es de aprendizaje a
 - ¿Que retos puede hacer el alumno basandonos en su ruta de aprendizaje y su nivel de aprendizaje?
 - ¿Cuantos retos debe resolver un alumno para subir de nivel de dificultad?
 
+***Primer version del dataset para alimentar el algoritmo***
+![DataSet]()
+
 ## Licencia :bookmark_tabs:
 Proyecto bajo la licencia MIT.
