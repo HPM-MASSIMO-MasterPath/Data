@@ -66,7 +66,9 @@ La biblioteca que se pretende usar es ***Scikit-learn*** que es de aprendizaje a
 - ¿Cuantos retos debe resolver un alumno para subir de nivel de dificultad?
 
 ***Primer version del dataset para alimentar el algoritmo***
-![DataSet]()
+
+![DataSet](https://raw.githubusercontent.com/HPM-MASSIMO-MasterPath/Data/main/4.%20DataSet.png)
+
 
 ## Licencia :bookmark_tabs:
 Proyecto bajo la licencia MIT.
