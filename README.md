@@ -52,5 +52,18 @@ order by
 ## Base de Datos 💾
 [Modelo Relacional](https://github.com/HPM-MASSIMO-MasterPath/Backend/blob/main/BD%20Relacional%20Master%20Path.png)
 
+## Algoritmo de Recomendacion
+Analizando la data se llego a la conclución en implementar el algoritmo de clustericacion ***KMeans***. Esto por que a partir de un conjunto de datos con similitudes nos permite agruparlos para crear diferentes categorias.
+
+El ***objetivo*** es crear grupos de alumnos con similitudes en skills y cursos realizados para poder personalizar retos a cada grupo y en un futuro asignar grupos de estudio entre alumnos con el mismo nivel de aprendizaje.
+
+La biblioteca que se pretende usar es ***Scikit-learn*** que es de aprendizaje automático para el lenguaje de programación Python.
+
+***Preguntas que se hicieron para encontrar similitudes***
+- ¿Que cursos esta tomando el alumno?
+- ¿Que retos corresponden a un curso?
+- ¿Que retos puede hacer el alumno basandonos en su ruta de aprendizaje y su nivel de aprendizaje?
+- ¿Cuantos retos debe resolver un alumno para subir de nivel de dificultad?
+
 ## Licencia :bookmark_tabs:
 Proyecto bajo la licencia MIT.
